@@ -53,7 +53,7 @@ let miembros = {
 
     // SOLUCION 2
     // let res = [];
-    // arr.forEach(n => {
+    // arr.forEach( (n, indice) => {
     //   console.log(`El numero en el indice ${indice} es : ${n}`);
     //   res.push(n + 1);
     // });
